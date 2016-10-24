@@ -1,5 +1,5 @@
 # iujc_cv4
-Třetí cvičení předmětu IUJC (10.10.2016)
+Čtvrté cvičení předmětu IUJC (10.10.2016)
 
 ##Příklad 1
  Vytvořte program, který načte libovolný řetězec o konstantní délce (včetně mezer). Zjistěte délku řetězce pomocí funkce z knihovny <string.h>. V načteném řetězci nahraďte každý třetí znak nějakým vaším znakem (např. ‘_‘ nebo ‘*’ atd.) a takto upravený řetězec vytiskněte na obrazovku. Ukázka viz Obrázek 1. 
